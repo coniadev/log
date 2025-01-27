@@ -26,7 +26,7 @@
         "conia/development": "^1.0",
         "dealerdirect/phpcodesniffer-composer-installer": "^1.0",
         "phpunit/phpunit": "^10.4",
-        "vimeo/psalm": "^5.15"
+        "vimeo/psalm": "^5.15 || ^6.0"
     },
     "config": {
         "allow-plugins": {
